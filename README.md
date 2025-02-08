@@ -51,7 +51,7 @@ Among the models, **Random Forest** achieved the highest accuracy.
 - K-Means clustering results
 - Model accuracy analysis and error visualizations
 - 
-![Alt Text](images/Screenshot 2025-02-08 132310.png)
+![Alt Text](images/results.png)
 
 ## Usage
 To run the project, follow these steps:
