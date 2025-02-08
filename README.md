@@ -60,7 +60,7 @@ To run the project, follow these steps:
 2. Download the dataset and place it in the **Data/** folder.
 3. Run `project.py` to execute the analysis and model predictions:
     ```bash
-    python project.py
+    python project.ipynb
     ```
 
 ## Conclusion and Future Work
