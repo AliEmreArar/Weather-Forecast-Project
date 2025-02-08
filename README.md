@@ -50,6 +50,8 @@ Among the models, **Random Forest** achieved the highest accuracy.
 - PCA transformations and component analysis
 - K-Means clustering results
 - Model accuracy analysis and error visualizations
+- 
+![Alt Text](images/Screenshot 2025-02-08 132310.png)
 
 ## Usage
 To run the project, follow these steps:
